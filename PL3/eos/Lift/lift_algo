@@ -1,0 +1,61 @@
+
+
+Initialization:
+
+a.Four input pins 7,8,9,10.
+and 11 to 19, 21, 23, 24 output pins.
+
+b. Seven segment led pins are active low pins.
+numbered from is 11 to 18.
+
+c. There are four green and four yellow LEDs to indicate the current moving direction of lift. LED pins are active high pins. 
+
+d. For green pins are: 12,14,16, 18 from top to bottom.
+
+e. For yellow pins are: 11,13,15, 17 from top to bottom.
+
+f. Switch pins are the input pins numbered from 7 to 10  for each floor.
+
+7 for the third floor.
+
+9 for second floor.
+
+8 for first floor
+
+10 for ground floor.
+
+
+
+
+
+
+
+
+
+
+
+Algorithm:
+
+1. Initially make all pins configurations.
+
+2. Define function zero, one, two, three for displying corresponding number on the Seven Segment display. Define functions glow_green, glow_yellow to glow green or yellow LEDs respectively.
+
+3. Intialize lift_status variable to indicate current position of the lift. Initially lift_status=0 i.e. Initially lift is on the ground floor.
+
+4. Initially display zero on the Seven segment display.
+
+5. Check input of the switches. 
+
+6. Check the curren position of the lift, according to that glow LEDs and display dynamic position of the lift on seven segment display. 
+
+7. Once lift is reached to destination change lift_status variable to destination floor number.
+
+8. Continue steps 5 to 7. 
+
+
+		
+
+
+
+
+

@@ -1,0 +1,32 @@
+Explain different IPC mechanisms.
+What is socket programming?
+Explain client-server application.
+What is the range of port numbers used in soccket programming?
+Explain printstream and buffered reader class in Java.
+What is echo server?
+What is the application of echo server?
+What is thread?
+What is the difference between thread and process?
+Explain thread life cycle.
+Difference between wait and sleep in Java.
+Explain multithreading.
+Difference between multithreading and multiprocessing.
+What are the benefits of multithreading?
+Explain thread class in Java.
+What is interface in Java?
+Explain runnable interface.
+What is runnable object?
+What are thread libraries?
+Explain thread synchronisation.
+Explain classes in Java.net package.
+Explain interfaces and exceptions in Java.net package.
+Explain TCP & UDP.
+Difference between Runnable and callable.
+What is sleep() method in Java?
+Difference between run() & start() method in thread class.
+What is race condition in Java? Give an example.
+What happens when an exception occurs in thread?
+How to stop a thread in Java?
+How to share data between two threads?
+Which are the two ways to implement thread in Java?
+
